@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/CategoryContent",
+  "version": "1.0.0",
+  "description": "カテゴリコンテンツプラグイン",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7"
+  },
+  "extra": {
+    "code": "CategoryContent"
+  }
+}
